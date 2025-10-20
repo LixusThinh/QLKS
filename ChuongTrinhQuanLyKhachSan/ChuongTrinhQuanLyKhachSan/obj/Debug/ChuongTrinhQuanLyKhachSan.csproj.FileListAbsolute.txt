@@ -1,0 +1,15 @@
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe.config
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Form1.resources
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Properties.Resources.resources
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTr.40321BE6.Up2Date
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.exe.config
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Dashboard.resources
+C:\Users\ACER\Source\Repos\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
