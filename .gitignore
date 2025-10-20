@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+
+# Gói thư viện
+packages/
